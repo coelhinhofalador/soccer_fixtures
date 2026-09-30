@@ -10,7 +10,7 @@ Mauritania,Central African Republic,2026-09-24,Casablanca,Morocco,Africa Cup of 
 Namibia,Congo,2026-09-24,Francistown,Botswana,Africa Cup of Nations Qualification,1,0
 Sierra Leone,Zimbabwe,2026-09-24,El Jadida,Morocco,Africa Cup of Nations Qualification,2,3
 Tunisia,Uganda,2026-09-24,Rades,Tunisia,Africa Cup of Nations Qualification,1,1
-Antigua and Barbuda,Anguilla,2026-09-24,St. John's,Antigua and Barbuda,CONCACAF Nations League,,
+Antigua and Barbuda,Anguilla,2026-09-24,St. John's,Antigua and Barbuda,CONCACAF Nations League,5,0
 Cayman Islands,Dominica,2026-09-24,Roseau,Dominica,CONCACAF Nations League,0,0
 Costa Rica,Curaçao,2026-09-24,San José,Costa Rica,CONCACAF Nations League,3,4
 Dominican Republic,Nicaragua,2026-09-24,Santiago de los Caballeros,Dominican Republic,CONCACAF Nations League,3,2
@@ -50,82 +50,82 @@ Montenegro,Cyprus,2026-09-25,Podgorica,Montenegro,UEFA Nations League,2,1
 Poland,Bosnia and Herzegovina,2026-09-25,Warsaw,Poland,UEFA Nations League,0,0
 Sweden,Romania,2026-09-25,Solna,Sweden,UEFA Nations League,2,1
 Turkey,France,2026-09-25,Kocaeli,Turkey,UEFA Nations League,0,1
-Kenya,Eritrea,2026-09-26,Nairobi,Kenya,Africa Cup of Nations Qualification,,
-Niger,Lesotho,2026-09-26,Accra,Ghana,Africa Cup of Nations Qualification,,
-South Africa,Guinea,2026-09-26,Johannesburg,South Africa,Africa Cup of Nations Qualification,,
-Montserrat,British Virgin Islands,2026-09-26,Providenciales,Turks and Caicos Islands,CONCACAF Nations League,,
-Saint Vincent and the Grenadines,French Guiana,2026-09-26,Belmopan,Belize,CONCACAF Nations League,,
-Albania,Belarus,2026-09-26,Tirana,Albania,UEFA Nations League,,
-Bulgaria,Luxembourg,2026-09-26,Plovdiv,Bulgaria,UEFA Nations League,,
-Czech Republic,Croatia,2026-09-26,Prague,Czech Republic,UEFA Nations League,,
-England,Spain,2026-09-26,London,England,UEFA Nations League,,
-Faroe Islands,Kazakhstan,2026-09-26,Tórshavn,Faroe Islands,UEFA Nations League,,
-Iceland,Estonia,2026-09-26,Reykjavik,Iceland,UEFA Nations League,,
-North Macedonia,Switzerland,2026-09-26,Skopje,North Macedonia,UEFA Nations League,,
-San Marino,Finland,2026-09-26,Serravalle,San Marino,UEFA Nations League,,
-Slovakia,Moldova,2026-09-26,Prešov,Slovakia,UEFA Nations League,,
-Slovenia,Scotland,2026-09-26,Ljubljana,Slovenia,UEFA Nations League,,
-Curaçao,Nicaragua,2026-09-27,Willemstad,Curaçao,CONCACAF Nations League,,
-Haiti,Costa Rica,2026-09-27,Kingston,Jamaica,CONCACAF Nations League,,
-Trinidad and Tobago,Dominican Republic,2026-09-27,Port of Spain,Trinidad and Tobago,CONCACAF Nations League,,
-Austria,Kosovo,2026-09-27,Vienna,Austria,UEFA Nations League,,
-Denmark,Wales,2026-09-27,Copenhagen,Denmark,UEFA Nations League,,
-Germany,Greece,2026-09-27,Augsburg,Germany,UEFA Nations League,,
-Gibraltar,Andorra,2026-09-27,Gibraltar,Gibraltar,UEFA Nations League,,
-Israel,Republic of Ireland,2026-09-27,Debrecen,Hungary,UEFA Nations League,,
-Lithuania,Azerbaijan,2026-09-27,Kaunas,Lithuania,UEFA Nations League,,
-Norway,Portugal,2026-09-27,Oslo,Norway,UEFA Nations League,,
-Serbia,Netherlands,2026-09-27,Belgrade,Serbia,UEFA Nations League,,
-Botswana,Tunisia,2026-09-28,,Botswana,Africa Cup of Nations Qualification,,
-Central African Republic,Burkina Faso,2026-09-28,Casablanca,Morocco,Africa Cup of Nations Qualification,,
-Equatorial Guinea,Sierra Leone,2026-09-28,,Equatorial Guinea,Africa Cup of Nations Qualification,,
-Zimbabwe,DR Congo,2026-09-28,Harare,Zimbabwe,Africa Cup of Nations Qualification,,
-Cuba,Bonaire,2026-09-28,Basseterre,Saint Kitts and Nevis,CONCACAF Nations League,,
-Guadeloupe,Barbados,2026-09-28,Castries,Saint Lucia,CONCACAF Nations League,,
-Guatemala,El Salvador,2026-09-28,Guatemala City,Guatemala,CONCACAF Nations League,,
-Jamaica,Honduras,2026-09-28,Kingston,Jamaica,CONCACAF Nations League,,
-Martinique,Suriname,2026-09-28,Fort-de-France,Martinique,CONCACAF Nations League,,
-Saint Lucia,Bermuda,2026-09-28,Castries,Saint Lucia,CONCACAF Nations League,,
-Armenia,Montenegro,2026-09-28,Yerevan,Armenia,UEFA Nations League,,
-Belgium,France,2026-09-28,Brussels,Belgium,UEFA Nations League,,
-Georgia,Ukraine,2026-09-28,Tbilisi,Georgia,UEFA Nations League,,
-Latvia,Cyprus,2026-09-28,Riga,Latvia,UEFA Nations League,,
-Northern Ireland,Hungary,2026-09-28,Belfast,Northern Ireland,UEFA Nations League,,
-Romania,Bosnia and Herzegovina,2026-09-28,Bucharest,Romania,UEFA Nations League,,
-Sweden,Poland,2026-09-28,Solna,Sweden,UEFA Nations League,,
-Turkey,Italy,2026-09-28,Bursa,Turkey,UEFA Nations League,,
-Benin,Mauritania,2026-09-29,Abidjan,Ivory Coast,Africa Cup of Nations Qualification,,
-Burundi,Algeria,2026-09-29,Bujumbura,Burundi,Africa Cup of Nations Qualification,,
-Cape Verde,Rwanda,2026-09-29,,Cape Verde,Africa Cup of Nations Qualification,,
-Comoros,Namibia,2026-09-29,,Comoros,Africa Cup of Nations Qualification,,
-Congo,Cameroon,2026-09-29,Brazzaville,Congo,Africa Cup of Nations Qualification,,
-Ethiopia,Senegal,2026-09-29,Bahir Dar,Ethiopia,Africa Cup of Nations Qualification,,
-Gabon,Niger,2026-09-29,Libreville,Gabon,Africa Cup of Nations Qualification,,
-Ghana,Gambia,2026-09-29,Accra,Ghana,Africa Cup of Nations Qualification,,
-Guinea-Bissau,Nigeria,2026-09-29,,Morocco,Africa Cup of Nations Qualification,,
-Lesotho,Morocco,2026-09-29,Bloemfontein,South Africa,Africa Cup of Nations Qualification,,
-Liberia,Mali,2026-09-29,Monrovia,Liberia,Africa Cup of Nations Qualification,,
-Madagascar,Tanzania,2026-09-29,,Madagascar,Africa Cup of Nations Qualification,,
-Mozambique,Sudan,2026-09-29,Maputo,Mozambique,Africa Cup of Nations Qualification,,
-Somalia,Ivory Coast,2026-09-29,Abidjan,Ivory Coast,Africa Cup of Nations Qualification,,
-South Sudan,Egypt,2026-09-29,Juba,South Sudan,Africa Cup of Nations Qualification,,
-Uganda,Libya,2026-09-29,Hoima,Uganda,Africa Cup of Nations Qualification,,
-Zambia,Togo,2026-09-29,Ndola,Zambia,Africa Cup of Nations Qualification,,
-Anguilla,Aruba,2026-09-29,St. John's,Antigua and Barbuda,CONCACAF Nations League,,
-French Guiana,Sint Maarten,2026-09-29,Belmopan,Belize,CONCACAF Nations League,,
-Saint Vincent and the Grenadines,Belize,2026-09-29,Belmopan,Belize,CONCACAF Nations League,,
-Turks and Caicos Islands,British Virgin Islands,2026-09-29,Providenciales,Turks and Caicos Islands,CONCACAF Nations League,,
-United States Virgin Islands,Bahamas,2026-09-29,St. Croix,United States Virgin Islands,CONCACAF Nations League,,
-Bulgaria,Estonia,2026-09-29,Plovdiv,Bulgaria,UEFA Nations League,,
-Czech Republic,England,2026-09-29,Prague,Czech Republic,UEFA Nations League,,
-Finland,Belarus,2026-09-29,,,UEFA Nations League,,
-Luxembourg,Iceland,2026-09-29,Luxembourg City,Luxembourg,UEFA Nations League,,
-Moldova,Faroe Islands,2026-09-29,Chișinău,Moldova,UEFA Nations League,,
-San Marino,Albania,2026-09-29,Serravalle,San Marino,UEFA Nations League,,
-Scotland,Switzerland,2026-09-29,Glasgow,Scotland,UEFA Nations League,,
-Slovakia,Kazakhstan,2026-09-29,Košice,Slovakia,UEFA Nations League,,
-Slovenia,North Macedonia,2026-09-29,Ljubljana,Slovenia,UEFA Nations League,,
-Spain,Croatia,2026-09-29,Seville,Spain,UEFA Nations League,,
+Kenya,Eritrea,2026-09-26,Nairobi,Kenya,Africa Cup of Nations Qualification,1,1
+Niger,Lesotho,2026-09-26,Accra,Ghana,Africa Cup of Nations Qualification,2,1
+South Africa,Guinea,2026-09-26,Johannesburg,South Africa,Africa Cup of Nations Qualification,2,1
+Montserrat,British Virgin Islands,2026-09-26,Providenciales,Turks and Caicos Islands,CONCACAF Nations League,3,0
+Saint Vincent and the Grenadines,French Guiana,2026-09-26,Belmopan,Belize,CONCACAF Nations League,2,1
+Albania,Belarus,2026-09-26,Tirana,Albania,UEFA Nations League,2,0
+Bulgaria,Luxembourg,2026-09-26,Plovdiv,Bulgaria,UEFA Nations League,1,2
+Czech Republic,Croatia,2026-09-26,Prague,Czech Republic,UEFA Nations League,1,2
+England,Spain,2026-09-26,London,England,UEFA Nations League,2,3
+Faroe Islands,Kazakhstan,2026-09-26,Tórshavn,Faroe Islands,UEFA Nations League,1,1
+Iceland,Estonia,2026-09-26,Reykjavik,Iceland,UEFA Nations League,1,1
+North Macedonia,Switzerland,2026-09-26,Skopje,North Macedonia,UEFA Nations League,0,3
+San Marino,Finland,2026-09-26,Serravalle,San Marino,UEFA Nations League,0,7
+Slovakia,Moldova,2026-09-26,Prešov,Slovakia,UEFA Nations League,2,0
+Slovenia,Scotland,2026-09-26,Ljubljana,Slovenia,UEFA Nations League,0,0
+Curaçao,Nicaragua,2026-09-27,Willemstad,Curaçao,CONCACAF Nations League,6,1
+Haiti,Costa Rica,2026-09-27,Kingston,Jamaica,CONCACAF Nations League,2,0
+Trinidad and Tobago,Dominican Republic,2026-09-27,Port of Spain,Trinidad and Tobago,CONCACAF Nations League,1,2
+Austria,Kosovo,2026-09-27,Vienna,Austria,UEFA Nations League,3,1
+Denmark,Wales,2026-09-27,Copenhagen,Denmark,UEFA Nations League,2,0
+Germany,Greece,2026-09-27,Augsburg,Germany,UEFA Nations League,0,1
+Gibraltar,Andorra,2026-09-27,Gibraltar,Gibraltar,UEFA Nations League,0,0
+Israel,Republic of Ireland,2026-09-27,Debrecen,Hungary,UEFA Nations League,0,3
+Lithuania,Azerbaijan,2026-09-27,Kaunas,Lithuania,UEFA Nations League,1,1
+Norway,Portugal,2026-09-27,Oslo,Norway,UEFA Nations League,1,2
+Serbia,Netherlands,2026-09-27,Belgrade,Serbia,UEFA Nations League,1,2
+Botswana,Tunisia,2026-09-28,,Botswana,Africa Cup of Nations Qualification,2,2
+Central African Republic,Burkina Faso,2026-09-28,Casablanca,Morocco,Africa Cup of Nations Qualification,0,1
+Equatorial Guinea,Sierra Leone,2026-09-28,,Equatorial Guinea,Africa Cup of Nations Qualification,1,0
+Zimbabwe,DR Congo,2026-09-28,Harare,Zimbabwe,Africa Cup of Nations Qualification,1,2
+Cuba,Bonaire,2026-09-28,Basseterre,Saint Kitts and Nevis,CONCACAF Nations League,2,0
+Guadeloupe,Barbados,2026-09-28,Castries,Saint Lucia,CONCACAF Nations League,2,2
+Guatemala,El Salvador,2026-09-28,Guatemala City,Guatemala,CONCACAF Nations League,6,0
+Jamaica,Honduras,2026-09-28,Kingston,Jamaica,CONCACAF Nations League,0,1
+Martinique,Suriname,2026-09-28,Fort-de-France,Martinique,CONCACAF Nations League,1,2
+Saint Lucia,Bermuda,2026-09-28,Castries,Saint Lucia,CONCACAF Nations League,5,2
+Armenia,Montenegro,2026-09-28,Yerevan,Armenia,UEFA Nations League,2,3
+Belgium,France,2026-09-28,Brussels,Belgium,UEFA Nations League,0,1
+Georgia,Ukraine,2026-09-28,Tbilisi,Georgia,UEFA Nations League,0,0
+Latvia,Cyprus,2026-09-28,Riga,Latvia,UEFA Nations League,0,0
+Northern Ireland,Hungary,2026-09-28,Belfast,Northern Ireland,UEFA Nations League,0,0
+Romania,Bosnia and Herzegovina,2026-09-28,Bucharest,Romania,UEFA Nations League,2,4
+Sweden,Poland,2026-09-28,Solna,Sweden,UEFA Nations League,3,1
+Turkey,Italy,2026-09-28,Bursa,Turkey,UEFA Nations League,1,4
+Benin,Mauritania,2026-09-29,Abidjan,Ivory Coast,Africa Cup of Nations Qualification,2,1
+Burundi,Algeria,2026-09-29,Bujumbura,Burundi,Africa Cup of Nations Qualification,2,2
+Cape Verde,Rwanda,2026-09-29,,Cape Verde,Africa Cup of Nations Qualification,1,2
+Comoros,Namibia,2026-09-29,,Comoros,Africa Cup of Nations Qualification,1,0
+Congo,Cameroon,2026-09-29,Brazzaville,Congo,Africa Cup of Nations Qualification,1,1
+Ethiopia,Senegal,2026-09-29,Bahir Dar,Ethiopia,Africa Cup of Nations Qualification,0,1
+Gabon,Niger,2026-09-29,Libreville,Gabon,Africa Cup of Nations Qualification,2,0
+Ghana,Gambia,2026-09-29,Accra,Ghana,Africa Cup of Nations Qualification,2,4
+Guinea-Bissau,Nigeria,2026-09-29,,Morocco,Africa Cup of Nations Qualification,3,0
+Lesotho,Morocco,2026-09-29,Bloemfontein,South Africa,Africa Cup of Nations Qualification,0,2
+Liberia,Mali,2026-09-29,Monrovia,Liberia,Africa Cup of Nations Qualification,0,1
+Madagascar,Tanzania,2026-09-29,,Madagascar,Africa Cup of Nations Qualification,1,1
+Mozambique,Sudan,2026-09-29,Maputo,Mozambique,Africa Cup of Nations Qualification,4,1
+Somalia,Ivory Coast,2026-09-29,Abidjan,Ivory Coast,Africa Cup of Nations Qualification,0,2
+South Sudan,Egypt,2026-09-29,Juba,South Sudan,Africa Cup of Nations Qualification,0,5
+Uganda,Libya,2026-09-29,Hoima,Uganda,Africa Cup of Nations Qualification,1,0
+Zambia,Togo,2026-09-29,Ndola,Zambia,Africa Cup of Nations Qualification,2,0
+Anguilla,Aruba,2026-09-29,St. John's,Antigua and Barbuda,CONCACAF Nations League,0,2
+French Guiana,Sint Maarten,2026-09-29,Belmopan,Belize,CONCACAF Nations League,1,0
+Saint Vincent and the Grenadines,Belize,2026-09-29,Belmopan,Belize,CONCACAF Nations League,1,0
+Turks and Caicos Islands,British Virgin Islands,2026-09-29,Providenciales,Turks and Caicos Islands,CONCACAF Nations League,3,0
+United States Virgin Islands,Bahamas,2026-09-29,St. Croix,United States Virgin Islands,CONCACAF Nations League,3,1
+Bulgaria,Estonia,2026-09-29,Plovdiv,Bulgaria,UEFA Nations League,0,0
+Czech Republic,England,2026-09-29,Prague,Czech Republic,UEFA Nations League,0,2
+Finland,Belarus,2026-09-29,Helsinki,Finland,UEFA Nations League,0,0
+Luxembourg,Iceland,2026-09-29,Luxembourg City,Luxembourg,UEFA Nations League,0,3
+Moldova,Faroe Islands,2026-09-29,Chișinău,Moldova,UEFA Nations League,1,1
+San Marino,Albania,2026-09-29,Serravalle,San Marino,UEFA Nations League,0,3
+Scotland,Switzerland,2026-09-29,Glasgow,Scotland,UEFA Nations League,0,3
+Slovakia,Kazakhstan,2026-09-29,Košice,Slovakia,UEFA Nations League,2,1
+Slovenia,North Macedonia,2026-09-29,Ljubljana,Slovenia,UEFA Nations League,2,0
+Spain,Croatia,2026-09-29,Seville,Spain,UEFA Nations League,4,1
 Eritrea,South Africa,2026-09-30,Cairo,Egypt,Africa Cup of Nations Qualification,,
 Guinea,Kenya,2026-10-01,Conakry,Guinea,Africa Cup of Nations Qualification,,
 Antigua and Barbuda,Anguilla,2026-10-01,St. John's,Antigua and Barbuda,CONCACAF Nations League,,
